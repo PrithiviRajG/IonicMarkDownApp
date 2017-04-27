@@ -8,4 +8,6 @@ Use ionic serve to start a local development server for app dev and testing. Add
 
 This is developed by following - https://hackernoon.com/getting-started-with-ionic-2-by-building-a-markdown-app-53c4022cf236
 
+App is deployed in Ionic cloud, you see the app in mobile by using the id 7df4b990 in [ionic view](https://play.google.com/store/apps/details?id=com.ionic.viewapp) 
+
 Thanks to [Amit](https://hackernoon.com/@amit_merchant) for that wonderful article 
